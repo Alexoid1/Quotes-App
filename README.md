@@ -20,28 +20,6 @@ Additional description about the project and its features.
 [Live Demo Link](https://alexoid1.github.io/Quotes-App/)
 
 
-## Getting Started
-
-**Navigation bar**
-- Go to (https://alexoid1.github.io/Quotes-App/) and have a look around. 
-
-
-
-
-## In this project:
-
-- Use type.fit (API)
-
-
-
-
-To get a local copy  and to set it up and running follow these simple example steps.
-
-### Prerequisites
-
-- Browser
-- Internet
-- Download the code from repository (https://github.com/Alexoid1/Quotes-App)
 
 
 ## Author
@@ -54,9 +32,6 @@ To get a local copy  and to set it up and running follow these simple example st
 
 
 
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 
 
