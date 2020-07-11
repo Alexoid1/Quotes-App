@@ -1,0 +1,9 @@
+body {
+    background: url('./img/buda2.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.noBg {
+    background: none;
+}
